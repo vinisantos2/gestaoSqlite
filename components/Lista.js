@@ -13,9 +13,7 @@ import Cadastro from './Cadastro';
 import GestorDados from '../dados/GestorDados';
 import { useIsFocused } from '@react-navigation/native';
 import RNPickerSelect from 'react-native-picker-select';
-import { Financa } from '../dados/Financa';
-import CalendarPicker from "react-native-calendar-picker";
-import { NavigationContainer } from '@react-navigation/native';
+
 
 
 export default function Lista({ navigation }) {
